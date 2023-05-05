@@ -1,0 +1,502 @@
+    .body  {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    }
+
+.qq  {display: flex;
+    background-color: white; 
+    box-shadow: 0px 0px 10px gray;height: 100px;
+    z-index: 10;
+    height: 80px;
+
+}
+
+    .ww  {padding: 0px  100px;padding-bottom: 30px;}
+
+    .ee  {padding: 0px 250px  ; }
+
+    .rr  {
+    display: flex; grid-column-gap :35px ; 
+}
+
+    .tt  {
+        color: orangered; text-decoration: none;
+}
+    .yy  {
+        text-decoration: none; color: black;
+}
+
+    .uu  {
+        text-decoration: none; color: black;
+}
+
+    .ii  {
+        text-decoration: none; color: black
+}
+
+    .oo  {
+        text-decoration: none ; color: black
+}
+
+    .pp  {
+        text-decoration: none; color: black
+}
+
+    .aa  {
+        text-decoration: none;  color: black 
+}
+
+    .ss  {
+        text-decoration: none
+}
+
+    .dd   {color: white; 
+        background-color: orangered; 
+        border-radius: 100px; 
+        height: 35px;
+        width: 120px; text-align: center;
+}
+
+    .ff  {padding: 0px 100px ; 
+        background-image: url(Screenshot_20230425-001751.png ) ;
+        background-position:right ;
+        background-repeat: no-repeat;
+        background-size: 550px;
+
+}
+
+    .gg  {display: flex;  
+        grid-column-gap:30px 
+
+}
+
+    .jj  {color: white; background-color: orangered; gap: ; border-radius: 100px; 
+        height: 30px; 
+        width: 100px; 
+        text-align: center;
+
+}
+
+    .kk  {color: white; background-color: gray; 
+        border-radius: 100px; 
+        height: 30px; 
+        width: 155px; 
+        text-align: center
+
+}
+
+    .ll  {display: flex;
+        text-align: center;
+        background-color: white;
+        box-shadow: 0px 0px 10px grey ; 
+        margin-left: 400px; 
+        margin-right: 400px;
+        padding-left: 100px; 
+        grid-column-gap :35px ; 
+        border: 1px white solid; 
+        border-radius: 50px; 
+        width: 500px
+
+}
+
+    .zz  {
+        padding: 0px 40px
+}
+
+    .xx  {       color: orangered; 
+        display: flex; 
+        font-size: 40px
+
+}
+
+    .cc {background-color: orangered; 
+        border: 1px orangered solid; 
+        border-radius: 15px; 
+        color: white; 
+        width: 40px; 
+        height: 40px;
+        text-decoration: none;
+        color: black;
+        
+
+    .ZA  {
+        text-decoration: none
+        
+    }    
+
+}
+    .vv  {text-align: center; 
+        background-color: white; 
+        margin-left: 200px 
+        ;margin-right: 200px;
+
+}
+    .bb  {color: orangered; 
+        font-size: 35px;}
+
+    .nn  
+{
+        display: flex ; 
+        text-align: center; 
+        grid-column-gap :35px ; 
+        padding: 0px  400px; 
+        margin: auto; }
+
+    .mm   {background-color: white; 
+        box-shadow: 0px 0px 10px gray  ; 
+        background-size: 350px; 
+        border-radius: 30px; 
+        width: 200px;
+
+
+    }
+
+    .Q  { class="Q"background-color: white; 
+        box-shadow: 0px 0px 10px gray  
+        ; background-size: 350px; 
+        border-radius: 30px; 
+        width: 200px;
+
+
+    }
+
+    .W  {
+        background-color: white;  
+        box-shadow: 0px 0px 10px gray  ; 
+        background-size: 350px;
+        border-radius: 30px; 
+        width: 200px;
+    }
+
+    .E  {
+        text-align: center; 
+        background-color: white; 
+        margin-left: 200px ; 
+        margin-right: 200px;
+    }
+
+    .R  {
+        font-size: 20px;
+    }
+
+    .T  {
+        color: orangered; font-size: 30px;
+    }
+
+    .Y  {
+        font-size: 20px;
+    }
+
+    .U  {
+        text-align: center; 
+        background-color: white; 
+        margin-left: 200px ; 
+        margin-right: 200px;
+    }
+
+    .I  {
+        font-size: 20px;
+    }
+
+    .O  {
+        color: orangered; 
+        font-size: 35px;
+    }
+
+    .P  {
+        font-size: 20px;
+    }
+    .A  {
+        margin-left: 200px;
+    }
+
+    .S  {
+        margin-left: 200px;
+    }
+
+    .D  {
+        text-align: center; 
+        background-color: white; 
+        margin-left: 200px ; 
+        margin-right: 200px;  
+    }
+
+    .F  {
+        font-size: 20px;
+    }
+
+    .G {
+        color: orangered; 
+        font-size: 30px;
+    }
+
+    .H  {
+        font-size: 40;
+    }
+
+    .J  {
+        text-align: center; 
+        background-color: white ; 
+        box-shadow: 0px 0px 10px; 
+        margin-right: 60px; margin-left:60px; 
+        border-radius: 15px;
+    }
+
+    .K  {
+        color: orangered;
+    }
+
+    .L  {
+        text-align: center; 
+        background-color: white; 
+        margin-left: 200px ; 
+        margin-right: 200px;  
+    }
+
+    .Z  {
+        font-size: 20px;
+    }
+
+    .X  {
+        color:orangered; font-size: 45px;
+    }
+
+    .C  {
+        font-size: 20px;
+    }
+
+    .V  {
+        display: flex; 
+        margin-left: 80px; 
+        margin-right: 50px; 
+        grid-column-gap:15px ; 
+        border-radius: 100px; 
+        border-radius: 100px 
+
+    }
+
+    .B  {
+        background-color: white; 
+        box-shadow: 0px 0px 10px gray; 
+        padding: 0px 10px; 
+        border-radius: 10px;
+    }
+
+    .N  {
+        color: orangered;
+    }
+
+    .M {
+        
+        font-size: 20px;
+    }
+
+    .QQ  {
+        color: orangered;
+    }
+
+    .WW  {
+        background-color: white; 
+        box-shadow: 0px 0px 10px gray; 
+        padding: 0px 10px;  
+        border-radius: 10px;
+    }
+
+    .EE  {
+        color: orangered; 
+    }
+
+    .RR  {
+        font-size: 20px;
+    }
+
+    .TT  {
+        color: orangered;
+    }
+
+    .YY   {
+        background-color: white;
+        box-shadow: 0px 0px 10px gray;padding: 0px 10px; 
+        border-radius: 10px;
+    
+    }
+
+    .UU  {
+        color: orangered;
+
+    }
+
+    .II  {
+        font-size: 20px;
+    }
+
+    .OO{  color: orangered;}
+
+    .PP  {display: flex; background-color: rgb(248, 101, 47); 
+        color: white;box-shadow: 0px 0px 10px grey ; 
+        padding: 0px 60px; margin-left: 60px; 
+        margin-right: 60px; 
+        border-radius: 15px;"
+
+
+    }
+
+    .AA    {padding-left: 650px ; padding-bottom: 20px; }
+
+    .SS{
+    font-size: 70;}
+
+    .DD  {color: orangered; 
+        background-color: wheat;  
+        text-decoration: none; 
+        border-radius: 100px; 
+        ; 
+        height: 30px; 
+        width: 100px;
+
+    }
+
+    .FF  {
+        text-align: center;
+        background-color: white;
+        margin-left: 200px ;
+        margin-right: 200px;  
+    }
+
+    .GG  {
+        font-size: 20px;
+    }
+
+    .HH  {
+        color: orangered; 
+        font-size: 40px;
+    }
+
+    .JJ    {
+        font-size: 20px;
+
+    }
+
+    .KK  {
+        display: flex; 
+        padding: 0px 60px; 
+        margin-left: 60px ; 
+        margin-right: 60px; 
+        background-color: white; 
+        box-shadow: 0px  0px  10px gray; 
+        padding-bottom: 50px 30px; 
+        grid-column-gap:60px ; 
+        border-radius: 50px;
+    }
+
+    .LL  {
+        height: 40px; 
+        border: 1px orangered solid ; 
+        border-radius: 5%; 
+        margin-top: 10px; 
+    }
+
+    .ZZ  {
+        height: 40px; 
+        border: 1px  solid orangered; 
+        border-radius: 5%;
+    }
+
+    .XX  {
+        border: orangered solid 1px; 
+        border-radius: 5%;
+
+    }
+
+    .CC  {
+        color: white ;
+        background-color:orangered; 
+        text-align: center; 
+        border-radius: 100px;
+        height:30px;
+    }
+
+    .VV  {
+        padding-left: 100px;
+    }
+
+    .BB  {
+        color: orangered;
+    }
+
+    .NN  {
+        color: orangered;
+    }
+
+    .MM  {
+        color: orangered; 
+    }
+
+    .QW  {
+        background-color: white ; 
+        box-shadow: 0px 0px 10px gray; 
+        border-radius: 10px;
+    }
+
+    .ER  {
+        background-color: white ; 
+        box-shadow: 0px 0px 10px gray; 
+        border-radius: 10px;
+    }
+
+    .TY  {
+        background-color: white ; 
+        box-shadow: 0px 0px 10px gray; 
+        border-radius: 10px;
+    }
+
+    .UI  {
+        background-color: white ; 
+        box-shadow: 0px 0px 10px gray; 
+        border-radius: 10px;
+    }
+
+    .OP  {
+        background-color: white ; 
+        box-shadow: 0px 0px 10px gray; 
+        border-radius: 10px;
+    }
+
+    .AS  {
+        background-color: white ; 
+        box-shadow: 0px 0px 10px gray; 
+        border-radius: 10px;
+    }
+
+    .DF  {color: orangered; display: flex}
+
+    .GH{
+        display: flex;padding: 100px ;
+    }
+
+    .JK  {
+        box-shadow: 0px 0px 10px grey;
+    }
+
+    .LK  {
+        background: white; border: orangered solid 1px;"
+    }
+
+    .ZX  {
+        background: white; border: orangered solid 1px;
+    }
+
+    .CV  {
+        background: white; border: orangered solid 1px;
+
+
+    }
+
+    .BN  {
+        background: white; border: orangered solid 1px;
+    }
+
+    .QE{
+    solid 1px;
+    }
+
+
